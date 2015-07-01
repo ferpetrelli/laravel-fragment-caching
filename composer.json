@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "illuminate/cache":"~4.2.0"
+        "illuminate/cache":"5.*"
     },
     "autoload": {
         "psr-0": {
